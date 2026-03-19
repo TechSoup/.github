@@ -15,3 +15,5 @@ This GitHub organization serves as the hub for our open-source initiatives, comm
 - **Infrastructure:** Scalable solutions for global donation management.
 - **Data for Good:** Tools to help civil society track impact and transparency.
 - **Community Tools:** Resources to help NGOs modernize their digital workflow.
+
+By developing in the open, we hope to empower the global community to adapt these tools—ensuring that every breakthrough is shared and no nonprofit has to build from scratch.
